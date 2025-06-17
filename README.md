@@ -1,0 +1,1 @@
+# Lista-de-Exercicios-2-Aplicando-conceitos-intermediarios-em-JS
