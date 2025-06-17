@@ -33,7 +33,7 @@ Para executar qualquer exercício, use o comando:
 node ex01.js
 ```
 
-⚠️ Substitua ex01.js pelo nome do exercício que deseja testar, como ex05.js, ex12.js, etc.
+⚠️ Substitua ex01.js pelo nome do exercício que deseja testar, como ex03.js, ex5.js, etc.
 
 ## 🧾 Estrutura do projeto
 
